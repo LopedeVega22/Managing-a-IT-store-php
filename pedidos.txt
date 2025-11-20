@@ -1,0 +1,6 @@
+Juan,Calle lucas,MacBook,2
+Luis,calle guadalajara,iPhone,6
+Lope,Calle macedonia,AirPods,3
+pepe,Calle butifarra,iPad,1
+Marcos,Calle lucas,iPhone,2
+Julian,Calle guadarrama,iPhone,1
